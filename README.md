@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suraj, undergraduate (cse - Ds) student in bhopal
-- 👀 I’m interested in creating visual experiences
-- 🌱 I’m currently learning react 
-- 💞️ I’m looking to collaborate on a project based on Mern stack development
+- 👀 interested in creating visual experiences
+- 🌱 currently learning react 
+- 💞️ looking to collaborate on a project based on Mern stack development
 - 📫 for more info drop a mail - surajrwat001@gmail.com
 
 
