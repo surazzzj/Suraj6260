@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Suraj, graduate (cse - Ds) student.
-- 👀 interested in creating visual experiences with proper color balancing.
-- 🌱 currently learning & exploring deep concepts of Mern stack.
-- 💞️ looking to collaborate on a project based on Mern stack development
-- 📫 for more info drop a mail - surajrwat001@gmail.com
+### 👋 Hi, I'm Suraj Rawat
 
+🎓 B.Tech CSE-DS (2025) | 🧠 MERN Stack Developer | 🌐 Full-Stack Web Enthusiast
+- 🔧 Interested in creating visually appealing and interactive web experiences
+- 🎯 Passionate about writing clean, maintainable code and solving real-world problems
+- 📈 Always learning, improving, and open to collaboration
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suraj-rawat-510bb1229) | [Portfolio](https://updatedfinalportfolio.netlify.app)
 
 <!---
 Suraj6260/Suraj6260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
