@@ -9,7 +9,8 @@
 
 <h3 align="center">💻 Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=HTML,CSS,Js,typescript,react,nodejs,expressjs,mongodb,tailwindcss,bootstrap,java,sql,figma,github,postman,vercel,render,netlify,gsap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,tailwind,bootstrap,java,mysql,figma,github,postman,vercel,render,netlify,gsap)](https://skillicons.dev)
+
 
 
 
