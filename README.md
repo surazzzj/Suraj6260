@@ -7,9 +7,10 @@
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suraj-rawat-510bb1229) | [Portfolio](https://updatedportfoliofinal.netlify.app)
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3 >💻 Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,tailwind,bootstrap,java,mysql,figma,github,postman,vercel,render,netlify,gsap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,tailwind,bootstrap,java,mysql,figma,github,postman,vercel,netlify,gsap)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Render-Light.svg" width="48" height="48" alt="Render" />
 
 
 
