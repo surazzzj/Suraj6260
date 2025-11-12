@@ -40,6 +40,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40" height="40" alt="GSAP"/>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 
 
