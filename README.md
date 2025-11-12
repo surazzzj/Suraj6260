@@ -9,10 +9,6 @@
 
 ### 🎨 My Tech Stack (Glass Look)
 
-<p align="center">
-  <img src="https://path/to/icons/html5-glass.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://path/to/icons/css3-glass.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://path/to/icons/javascript-glass.svg" width="40" height="40" alt="JavaScript"/>
-  <!-- … repeat for other tech … -->
-</p>
+<img src="path/to/html5-glass.svg" width="40" height="40" alt="HTML5"/>
+
 
