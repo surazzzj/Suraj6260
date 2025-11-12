@@ -9,7 +9,8 @@
 
 ### 🎨 My Tech Stack (Glass Look)
 
-<img src="https://raw.githubusercontent.com/surazzzj/surazzzj/main/assets/html5-glass.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+
 
 
 
