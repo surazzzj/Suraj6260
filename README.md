@@ -10,8 +10,7 @@
 <h3 >💻 Tech Stack</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,tailwind,bootstrap,java,mysql,figma,github,postman,vercel,netlify,gsap)](https://skillicons.dev)
-[icons/Vite-Dark.svg](https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vite-Dark.svg)
-[icons/Python-Dark.svg](https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg)
+
 
 
 
