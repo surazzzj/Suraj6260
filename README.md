@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Suraj Rawat !
 
-🎓 B.Tech CSE-DS (2025) | 🧠 MERN Stack Developer | 🌐 Full-Stack Web Enthusiast
+🎓 B.Tech CSE-DS (2025) | 🧠 MERN Stack Developer | 🌐 Full-Stack Web Enthusiast | Crafting Scalable & Engaging Web Experiences
+
 - 🔧 Interested in creating visually appealing and interactive web experiences
 - 🎯 Passionate about writing clean, maintainable code and solving real-world problems
 - 📈 Always learning, improving, and open to collaboration
