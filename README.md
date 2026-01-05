@@ -7,6 +7,7 @@
 - 📈 Always learning, improving, and open to collaboration
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suraj-rawat-510bb1229) | [Portfolio](https://updatedportfoliofinal.netlify.app)
+📄 **[Resume](./Suraj_Rawat_Resume.pdf)**
 
 <h3 >💻 Tech Stack</h3>
 
