@@ -8,7 +8,7 @@
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suraj-rawat-510bb1229) | [Portfolio](https://updatedportfoliofinal.netlify.app) 
 
-📄 [Resume](./surajResume.pdf)
+📄 [Resume](./SurajResume.pdf)
 
 <h3 >💻 Tech Stack</h3>
 
